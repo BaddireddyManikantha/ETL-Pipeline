@@ -1,0 +1,14 @@
+api:
+  url: "https://jsonplaceholder.typicode.com/users"
+
+snowflake:
+  user: "Mani"
+  password: "M@nirockVijji55"
+  account: "KDXQQLY-MB61400"
+  warehouse: "COMPUTE_WH"
+  database: "users_db"
+  schema: "PUBLIC"
+  table: "USERS"
+logging:
+  level: "INFO"
+  file: "etl.log"
