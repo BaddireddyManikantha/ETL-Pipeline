@@ -3,3 +3,5 @@ requests
 snowflake-connector-python
 pytest
 pyyaml
+sqlalchemy
+snowflake-sqlalchemy
